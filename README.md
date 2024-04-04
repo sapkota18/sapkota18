@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Kashiram Sapkota</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">Computer Science Student fromm Nepal</h3>
 <img align="right" alt="coading" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapkota18&label=Profile%20views&color=0e75b6&style=flat" alt="sapkota18" /> </p>
